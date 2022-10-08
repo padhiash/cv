@@ -1,0 +1,25 @@
+body {
+    background-color: #eaf6f6;
+}
+h1 {
+    color: #18978F;
+}
+h3 {
+    color: #18978F;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.angela {
+    color: rgb(214, 18, 18);
+}
+#work_exp {
+    font-style: italic;
+}
+h3:hover {
+    color: green;
+}
